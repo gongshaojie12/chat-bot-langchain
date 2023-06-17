@@ -7,7 +7,7 @@
 - 支持各种主流的LLM模型以及特定领域fine-tuning的模型,可动态进行替换
 
 ## 效果演示
-    请点击 [video](https://vizard.video/s?code=DKTVH5JQ)
+请点击 [video](https://vizard.video/s?code=DKTVH5JQ)
 
 
 # 开始使用
