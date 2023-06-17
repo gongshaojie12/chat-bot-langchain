@@ -17,3 +17,4 @@ gen
 *.zip
 *.tsv
 *.npy
+/.idea/

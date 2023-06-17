@@ -1,9 +1,13 @@
-#chat-bot-langchain
- 一个机遇langchain，LLM的可扩展的对话系统，可以在线创建你想要的人物性格，并和这个虚拟人物对话
+# chat-bot-langchain
 
-#特点
+ 一个集合langchain，LLM的可扩展的对话系统，可以在线创建你想要的人物性格，并和这个虚拟人物对话
+
+## 特点
 - 支持人物性格的在线设定
 - 支持各种主流的LLM模型以及特定领域fine-tuning的模型,可动态进行替换
+
+## 效果演示
+    请点击 [video](https://vizard.video/s?code=DKTVH5JQ)
 
 
 # 开始使用
@@ -83,5 +87,5 @@ Content-Type:application/json
 
 后续计划:
 - 资源利用做到动态可配置，避免资源浪费
-- 建立更复杂的persona,比如加入个人以往的经历，阅历等，让整个对话更贴近于真人
+- 利用LlamaIndex建立更复杂的persona,比如加入个人以往的经历，阅历等，让整个对话更贴近于真人
 - 训练特定领域的LLM模型
